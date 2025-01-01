@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Chat</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Chat</h1>
+
+        <div id="login-container">
+            <h3>Login</h3>
+            <input id="username" type="text" placeholder="Username" />
+            <input id="password" type="password" placeholder="Password" />
+            <button onclick="connect()">Login</button>
+            <div id="login-message"></div>
+            <p><a href="#" onclick="showRegistration()">Not registered? Sign up here.</a></p>
+        </div>
+
+        <div id="registration-container" class="hidden">
+            <h3>Register</h3>
+            <input id="reg-username" type="text" placeholder="Username" />
+            <input id="reg-password" type="password" placeholder="Password" />
+            <button onclick="register()">Register</button>
+            <p><a href="#" onclick="showLogin()">Already registered? Login here.</a></p>
+            <div id="registration-message"></div>
+        </div>
+
+        <div id="chat-container" class="hidden">
+            <div id="chat"></div>
+            <input id="message" type="text" placeholder="Type your message..." />
+            <button onclick="sendMessage()">Send</button>
+        </div>
+
+        <div id="error" class="error"></div>
+
+        <script src="script.js"></script>
+    </body>
+</html>

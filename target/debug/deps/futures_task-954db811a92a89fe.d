@@ -1,0 +1,11 @@
+K:\rust\app_chat\target\debug\deps\libfutures_task-954db811a92a89fe.rmeta: C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src/lib.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\spawn.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\arc_wake.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\waker.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\waker_ref.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\future_obj.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\noop_waker.rs
+
+K:\rust\app_chat\target\debug\deps\futures_task-954db811a92a89fe.d: C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src/lib.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\spawn.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\arc_wake.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\waker.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\waker_ref.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\future_obj.rs C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\noop_waker.rs
+
+C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src/lib.rs:
+C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\spawn.rs:
+C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\arc_wake.rs:
+C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\waker.rs:
+C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\waker_ref.rs:
+C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\future_obj.rs:
+C:\Users\Antoliy\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.31\src\noop_waker.rs:
